@@ -11,10 +11,12 @@
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0001-two-sum/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
