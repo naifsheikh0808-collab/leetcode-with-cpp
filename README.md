@@ -12,6 +12,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 <!---LeetCode Topics End-->
