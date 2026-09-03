@@ -13,6 +13,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 <!---LeetCode Topics End-->
