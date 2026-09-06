@@ -82,4 +82,12 @@
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->
