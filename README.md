@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Dynamic Programming
@@ -92,4 +94,8 @@
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0940-distinct-subsequences-ii/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
