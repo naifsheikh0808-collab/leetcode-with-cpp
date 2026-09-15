@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -35,6 +36,7 @@
 | [0015-3sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -60,6 +62,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -138,4 +141,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0836-rectangle-overlap/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
