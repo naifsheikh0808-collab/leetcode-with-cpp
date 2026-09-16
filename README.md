@@ -92,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3870-count-commas-in-range](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
@@ -114,6 +116,7 @@
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sliding Window
@@ -149,4 +152,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
