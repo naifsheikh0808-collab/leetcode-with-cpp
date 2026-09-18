@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0018-4sum/) | Medium |
@@ -38,6 +39,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0018-4sum/) | Medium |
@@ -84,6 +86,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
