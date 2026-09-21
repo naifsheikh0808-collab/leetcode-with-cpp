@@ -97,6 +97,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0836-rectangle-overlap/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3524-find-x-value-of-array-i/) | Medium |
