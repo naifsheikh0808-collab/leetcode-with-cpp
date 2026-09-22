@@ -52,6 +52,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Binary Search
@@ -134,6 +135,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
+| [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -193,6 +195,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
