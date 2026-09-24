@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0835-image-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0835-image-overlap/) | Medium |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -131,6 +133,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -161,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
