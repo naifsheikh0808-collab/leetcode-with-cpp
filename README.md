@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -87,6 +88,7 @@
 | [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -110,6 +112,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@
 | [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -207,6 +211,7 @@
 | [0042-trapping-rain-water](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +226,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
