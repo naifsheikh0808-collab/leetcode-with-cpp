@@ -21,6 +21,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -42,6 +43,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Two Pointers
@@ -151,6 +153,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
