@@ -151,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0412-fizz-buzz](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
@@ -219,6 +220,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
@@ -248,6 +250,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
