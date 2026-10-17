@@ -69,6 +69,7 @@
 | [0042-trapping-rain-water](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
@@ -180,6 +181,7 @@
 | [0022-generate-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0412-fizz-buzz](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0412-fizz-buzz/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
