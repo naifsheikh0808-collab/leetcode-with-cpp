@@ -52,6 +52,7 @@
 | [0001-two-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0242-valid-anagram/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -109,6 +110,7 @@
 | [0018-4sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -194,6 +196,7 @@
 | [0032-longest-valid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0412-fizz-buzz](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0412-fizz-buzz/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
