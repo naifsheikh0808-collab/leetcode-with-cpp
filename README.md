@@ -58,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -205,6 +206,7 @@
 | [0125-valid-palindrome](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0412-fizz-buzz/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
@@ -365,4 +367,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
