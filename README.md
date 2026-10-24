@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0835-image-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0835-image-overlap/) | Medium |
@@ -85,6 +86,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
