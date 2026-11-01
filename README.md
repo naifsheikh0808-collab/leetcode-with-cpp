@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0283-move-zeroes/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0835-image-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0835-image-overlap/) | Medium |
@@ -192,6 +193,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0836-rectangle-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0836-rectangle-overlap/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
