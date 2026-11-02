@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0835-image-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0835-image-overlap/) | Medium |
@@ -129,6 +130,7 @@
 | [0075-sort-colors](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0242-valid-anagram/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -195,6 +197,7 @@
 | [0009-palindrome-number](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0412-fizz-buzz/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0836-rectangle-overlap/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
