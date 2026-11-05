@@ -28,6 +28,7 @@
 | [1254-number-of-closed-islands](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -227,6 +228,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3903-smallest-stable-index-i/) | Easy |
