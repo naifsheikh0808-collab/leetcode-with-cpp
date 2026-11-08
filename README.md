@@ -27,6 +27,7 @@
 | [0835-image-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -159,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -192,6 +194,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
@@ -199,6 +202,7 @@
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -314,6 +318,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -442,6 +447,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
