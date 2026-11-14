@@ -47,6 +47,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -246,6 +247,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
@@ -314,6 +316,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Tree
