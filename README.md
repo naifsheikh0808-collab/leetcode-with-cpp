@@ -28,6 +28,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -232,6 +233,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0836-rectangle-overlap/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -254,6 +256,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -508,4 +511,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/naifsheikh0808-collab/leetcode-with-cpp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
